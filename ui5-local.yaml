@@ -16,7 +16,7 @@ framework:
     - name: sap.ui.generic.app
     - name: sap.ui.table
     - name: sap.ushell
-    - name: themelib_sap_horizon
+    - name: themelib_sap_horizon_3
     - name: sap.collaboration
 server:
   customMiddleware:
